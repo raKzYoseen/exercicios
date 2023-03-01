@@ -1,0 +1,11 @@
+item1 = input("Digite uma quantidade:")
+item2 = input("Digite uma quantidade:")
+item3 = input("Digite uma quantidade:")
+item4 = input("Digite uma quantidade:")
+item5 = input("Digite uma quantidade:")
+
+print ("Item 1 - Quantidade: "+item1)
+print ("Item 2 - Quantidade: "+item2)
+print ("Item 3 - Quantidade: "+item3)
+print ("Item 4 - Quantidade: "+item4)
+print ("Item 5 - Quantidade: "+item5)
